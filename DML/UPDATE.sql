@@ -1,0 +1,1 @@
+Update Mobile set Mobile_name='APPLE',Mmobile_cost=1000000 Where Mobile_name='redmi'

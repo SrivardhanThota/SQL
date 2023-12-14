@@ -1,0 +1,1 @@
+Alter TABLE Mobile Drop column Thota;

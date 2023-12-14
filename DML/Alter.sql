@@ -1,0 +1,1 @@
+ALTER TABLE Srivardhan add Thota Varchar(25);
